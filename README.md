@@ -1,5 +1,5 @@
 # Nigerian-Yellow-Fever-Data-Aanalysis
-To understand the knowledge and practices in Rivers, Nigeria on the prevention and controll the spread of yellow fever virus.
+To understand the knowledge and practices in Rivers, Nigeria on the prevention and control the spread of yellow fever virus.
 Exploratory Data Analysis and Logistic regression were used
 •	To determine areas to channel resources such as monetary budget on sensitization of the community on yellow fever
 •	To understand the most affected communities with the outbreaks and able to provide adequate solutions
